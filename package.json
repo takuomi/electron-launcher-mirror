@@ -1,0 +1,19 @@
+{
+  "name": "electron-launcher",
+  "version": "0.1.0",
+  "description": "Electron applications launcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takuomi/electron-launcher.git"
+  },
+  "author": "Takuomi Kagaya <takuomi@takuomi.com> (http://takuomi.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takuomi/electron-launcher/issues"
+  },
+  "homepage": "https://github.com/takuomi/electron-launcher#readme"
+}
