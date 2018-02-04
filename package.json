@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "standard",
+    "start": "electron .",
     "rebuild": "electron-rebuild -f -w leveldown"
   },
   "repository": {
