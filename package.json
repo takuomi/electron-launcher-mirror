@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/takuomi/electron-launcher#readme",
   "devDependencies": {
+    "electron": "1.7.12",
     "standard": "^10.0.3"
   }
 }
